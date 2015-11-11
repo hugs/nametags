@@ -22,6 +22,7 @@ Customizable, 3D printable, LEGO-compatible names tags!
 9. Send the G-code file to your 3D printer.
 10. 3D print the name tag!
 11. Attach it to anything LEGO-y!
+12. **Extra credit**: Send me a pull request with your name tag, and I'll add it [here](https://github.com/hugs/nametags/tree/master/tags/stl) for safekeeping. Next time, you can just grab the nametag directly. Use the format "Name.stl" for your file.
 
 ##TODO
 1. Make this easier to use so that there aren't as many steps and you don't have to edit lines of code. Maybe use [OpenJsCad](http://joostn.github.io/OpenJsCad/)?
